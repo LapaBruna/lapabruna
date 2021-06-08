@@ -1,6 +1,7 @@
 :white_small_square: Hi there :white_small_square:	
 
 :white_small_square: I’m currently working on Everis :white_small_square:	
+
 :white_small_square: I’m currently learning Java and automation testing :white_small_square:
 
 
