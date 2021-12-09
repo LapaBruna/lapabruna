@@ -1,7 +1,7 @@
 ## Hi there, I'm Bruna Lapa
 
 <div>
-  :white_small_square: I’m currently working on Everis :white_small_square:	and :white_small_square: I’m currently learning Java and automation testing :white_small_square:
+  :white_small_square: I’m currently working on NTT DATA :white_small_square:	and :white_small_square: I’m currently learning Java and automation testing :white_small_square:
 </div><br>
 
 <div>
